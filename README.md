@@ -13,7 +13,7 @@ The data was downloaded from the [NYC Open Data website](https://opendata.cityof
 * [MVC Person](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Person/f55k-p6yu)
 * [MVC Vehicles](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Vehicles/bm4k-52h4)
 
-The 3 datasets were downloaded into the data folder. Each of the files are over 300 megabytes in size.
+The 3 datasets were downloaded into the data folder each of the files are over 300 megabytes in size.
 
 Due to the size of this datasets, it's not possible to load all of them into python as the amount of memory required is sustantial and it would slow down any system.
 
